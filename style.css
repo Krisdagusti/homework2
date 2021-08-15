@@ -1,0 +1,282 @@
+body {
+
+position: relative;
+width: 1152px;
+height: 2041px;
+
+background: #FFFFFF;
+
+}
+
+.bagiansatu {
+
+    width: 1152px;
+    height: 595px;
+    left: 0px;
+    top: 228px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+
+    }
+
+h1 {
+
+    /* John Doe Creative Technologist */
+
+position: absolute;
+width: 506px;
+height: 105px;
+left: 148px;
+top: 228px; 
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 60px;
+/* or 136% */
+
+/* Dark Color */
+color: #21243D;
+
+}
+    
+h5{
+
+/* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+position: absolute;
+width: 497px;
+height: 66px;
+left: 148px;
+top: 373px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+
+/* Dark Color */
+color: #21243D;
+
+
+
+}
+
+
+.bagiandua {
+
+    width: 1152px;
+    height: 396px;
+    left: 0px;
+    top: 595px;
+    background: #EDF7FA;
+    
+   }
+
+    
+.contact {
+
+position: absolute;
+width: 132px;
+height: 22px;
+left: 146px;
+top: 603px;
+margin-top: 40px;
+
+}
+
+.info{
+
+position: absolute;
+width: 398px;
+height: 145px;
+left: 148px;
+top: 645px;
+margin-top: 35px;
+
+}
+
+.education{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    margin-top: 35px;
+
+    position: absolute;
+    width: 398px;
+    height: 384px;
+    left: 578px;
+    top: 607px;
+
+}
+
+
+.bagiantiga{
+
+
+}
+
+.project{
+
+padding-top: 20px;
+position: absolute;
+width: 132px;
+height: 22px;
+left: 146px;
+top: 1020px;
+
+}
+
+.h2 {
+
+    position: absolute;
+    width: 132px;
+    height: 22px;
+    left: 146px;
+    top: 1020px;
+}
+
+.h4{
+
+    position: absolute;
+    width: 42px;
+    height: 60px;
+    left: 420px;
+    top: 1123px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    
+}
+
+.p{
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    left: 410px;
+    top: 1188px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: #21243D;
+}
+
+
+.mr-1 {
+
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1088px;
+    border-radius: 6px;
+
+}
+
+.mr-2 {
+
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1088px;
+    border-radius: 6px;
+
+}
+
+.mr-3 {
+
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1088px;
+    border-radius: 6px;
+
+}
+
+
+.media-body1 {
+
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    left: 410px;
+    top: 1188px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    
+    /* Dark Color */
+    
+    color: #21243D;
+
+}
+
+.media-body2 {
+
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    left: 410px;
+    top: 1188px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    
+    /* Dark Color */
+    
+    color: #21243D;
+
+}
+
+.media-body3 {
+
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    left: 410px;
+    top: 1188px;
+    
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    
+    color: #21243D;
+
+}
+
+
+.bagianempat {
+    
+    /* Footer */
+
+    position: absolute;
+    width: 1152px;
+    height: 182px;
+    left: 0px;
+    top: 1859px;
+
+}
